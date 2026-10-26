@@ -5,7 +5,7 @@ Ein selbst gebautes, tragbares Linux-Handheld auf Basis des **Raspberry Pi 5 (8 
 > **Motivation:** Quereinsteiger aus neun Jahren Metallverarbeitung in die IT-Security. Dieses Projekt verbindet beides – handwerklicher Aufbau (Druck, Montage, Verkabelung, Troubleshooting) und der softwareseitige Betrieb eines Linux-Security-Systems. Learning by doing, von der Schraube bis zum Terminal.
 
 ![Cyberdeck fertig aufgebaut](docs/img/deck-fertig.jpg)
-*(Foto hier einfügen – das fertige Deck mit laufendem Desktop.)*
+*Das fertige Deck: Raspberry Pi 5 im selbst gedruckten Gehäuse, Raspberry Pi OS mit Touchscreen und physischer Tastatur.*
 
 ---
 
